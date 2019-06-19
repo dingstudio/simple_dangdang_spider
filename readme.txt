@@ -1,3 +1,3 @@
-ÏîÄ¿Æô¶¯ËµÃ÷£º
-1¡¢Æô¶¯ÏîÄ¿Ç°£¬ÇëÏÈÈ·±£ÏµÍ³ÕıÈ·°²×°ÁËPython 3.XÔËĞĞ»·¾³£¬²¢ÎªpipÉèÖÃÁË¹úÄÚ¾µÏñ¼ÓËÙ¡£½ÓÏÂÀ´ĞèÒªÅäÖÃÒÀÀµ£¡
-2¡¢°²×°ÒÀÀµ¿â£ºpip install -r setup.txt -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
+é¡¹ç›®å¯åŠ¨è¯´æ˜ï¼š
+1ã€å¯åŠ¨é¡¹ç›®å‰ï¼Œè¯·å…ˆç¡®ä¿ç³»ç»Ÿæ­£ç¡®å®‰è£…äº†Python 3.Xè¿è¡Œç¯å¢ƒï¼Œå¹¶ä¸ºpipè®¾ç½®äº†å›½å†…é•œåƒåŠ é€Ÿã€‚æ¥ä¸‹æ¥éœ€è¦é…ç½®ä¾èµ–ï¼
+2ã€å®‰è£…ä¾èµ–åº“ï¼špip3 install -r setup.txt -i http://pypi.douban.com/simple --trusted-host pypi.douban.com
